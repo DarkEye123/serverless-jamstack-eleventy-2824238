@@ -1,0 +1,14 @@
+{
+  "name": "serverless-jamstack-eleventy",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkEye123/serverless-jamstack-eleventy-2824238.git"
+  },
+  "author": "Matej Lesko"
+}
